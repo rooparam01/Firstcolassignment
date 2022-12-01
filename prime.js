@@ -9,4 +9,4 @@ if (count == 0) {
   console.log("This is a prime number");
 } else {
   console.log("this is not a prime number");
-
+}

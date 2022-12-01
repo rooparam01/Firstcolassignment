@@ -7,4 +7,4 @@ if (str1 == str) {
   console.log("is a palindrome");
 } else {
   console.log("not palindrome");
-
+}
